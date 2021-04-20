@@ -64,7 +64,7 @@ ms.locfileid: "94703704"
 
     [!code-html[](first-web-api/samples/3.0/TodoApi/wwwroot/index.html)]
 
-1. 将名为 site.css 的 CSS 文件添加到 wwwroot/css 文件夹 。 将 site.js 的内容替换为以下类型：
+1. 将名为 site.css 的 CSS 文件添加到 wwwroot/css 文件夹 。 将 site.css 的内容替换为以下类型：
 
     [!code-css[](first-web-api/samples/3.0/TodoApi/wwwroot/css/site.css)]
 
